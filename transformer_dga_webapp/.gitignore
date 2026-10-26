@@ -1,0 +1,32 @@
+# Transformer DGA Intelligence
+# PRML-Based Power Transformer Fault Diagnosis Using Dissolved Gas Analysis
+
+## Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+## Environment
+.env
+.venv/
+venv/
+
+## IDE
+.vscode/
+.idea/
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Streamlit
+.streamlit/secrets.toml
+
+## Temporary
+*.tmp
+*.bak

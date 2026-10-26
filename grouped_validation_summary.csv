@@ -1,0 +1,5 @@
+Metric,Value
+Mean accuracy,0.7751
+Accuracy standard deviation,0.0151
+Mean macro F1,0.7678
+Macro F1 standard deviation,0.0156

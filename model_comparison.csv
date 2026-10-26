@@ -1,0 +1,6 @@
+Model,Accuracy (%),Macro F1
+Gaussian Naive Bayes,41.53,0.3293
+Logistic Regression,48.31,0.3284
+Initial SVM,28.81,0.127
+Tuned SVM,64.41,0.5544
+Random Forest,75.42,0.7382

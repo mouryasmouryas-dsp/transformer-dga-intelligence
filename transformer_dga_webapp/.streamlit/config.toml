@@ -1,0 +1,19 @@
+# Transformer DGA Intelligence — Streamlit Theme Configuration
+# Dark navy/charcoal theme with vibrant cyan accent colors
+
+[theme]
+primaryColor = "#00D4FF"
+backgroundColor = "#0A0E1A"
+secondaryBackgroundColor = "#111827"
+textColor = "#E2E8F0"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = false
